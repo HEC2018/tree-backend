@@ -19,4 +19,5 @@ python manage.py migrate --run-syncdb<br />
 python manage.py createsuperuser<br />
 python manage.py runserver <br /><br />
 
+direct to 127.0.0.1:8000/admin
 create to Alan Marko for certicates and earth engine files integration
